@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+#greeting {
+    font: sans-serif;
+    color: white;
+}
+
+#color-change {
+    border-color: white;
+    color: white;
+    background-color: black;
+}
